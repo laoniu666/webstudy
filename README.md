@@ -1,4 +1,2 @@
 # webstudy
 firstlession
-
-hello world
